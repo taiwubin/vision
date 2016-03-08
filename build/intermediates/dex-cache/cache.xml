@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Eri\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Eri\Downloads\cloud-vision-master\android\PictureDetect\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_fc2f1615927d163a7840d1c8b2a36a56971f3437.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eri\Downloads\cloud-vision-master\android\PictureDetect\app\libs\faceppsdk_min.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3e26e757ce1873e4be56d3b49130e6ae607b5fdb">
+        <dex dex="C:\Users\Eri\Downloads\cloud-vision-master\android\PictureDetect\app\build\intermediates\pre-dexed\debug\faceppsdk_min_93f670551e5739c8c82fc7eafa2b6ecbc25edf62.jar" />
+    </item>
+
+</items>
